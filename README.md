@@ -5,5 +5,4 @@ I'm Abdul Wafi, a Computer Science student with a strong focus on machine learni
 - 🔭 **I’m currently working on:** A Driver Music Regulation System for my Final Year Project
 - 🌱 **I’m currently learning:** Advanced computer vision applications, game development in Construct 3
 - 👯 **I’m looking to collaborate on:** Machine learning models, robust backend engineering projects, and indie game development.
-- 💬 **Ask me about:** Java OOP, native PHP CRUD architectures, and system troubleshooting.
 - 📫 **How to reach me:** wafithird@gmail.com
